@@ -2,7 +2,7 @@
 <h3 align="center">👨🏽‍💻 Front End Developer 👨🏽‍💻</h3>
 
 - 🔭 I’m currently working on my projects
-- 🌱 I’m currently learning Data Structure and Algorithms, Svelte, and TypeScript 
+- 🌱 I’m currently learning Svelte, and TypeScript 
 - 📫 You can reach me at: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/shane-anh-dagatan-le/) 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:shane.anh.d.le@gmail.com)
 ## 
