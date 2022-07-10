@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Shane! 👋</h1>
+<h1 align="center">Hello, I'm Shane Le! 👋</h1>
 <h3 align="center">👨🏽‍💻 Front End Developer 👨🏽‍💻</h3>
 
 - 🔭 I’m currently working on my projects
