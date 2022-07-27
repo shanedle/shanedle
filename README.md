@@ -5,8 +5,8 @@ Front-end Developer
 -------------------
 
 *   🌍  I'm based in a small town in Norway
-*   🖥️  See my portfolio at [portfolio](http://portfolio-v2-shanedle.vercel.app/)
-*   ✉️  You can contact me at [shane.anh.d.le@gmail.com](mailto:shane.anh.d.le@gmail.com)
+*   🖥️  Check out my portfolio [here](http://portfolio-v2-shanedle.vercel.app/)
+*   ✉️  You can reach me at [shane.anh.d.le@gmail.com](mailto:shane.anh.d.le@gmail.com)
 *   🚀  I'm currently working on [my projects](http://github.com/shanedle?tab=repositories)
 *   🧠  I'm learning Svelte, TypeScript and Vue.js
 *   🤝  I'm open to collaborating on interesting projects
