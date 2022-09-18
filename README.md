@@ -8,7 +8,7 @@ Front-end Developer
 *   🖥️  Check out my portfolio [here](http://portfolio-v2-shanedle.vercel.app/)
 *   ✉️  You can reach me at [shane.anh.d.le@gmail.com](mailto:shane.anh.d.le@gmail.com)
 *   🚀  I'm currently working on [my projects](http://github.com/shanedle?tab=repositories)
-*   🧠  I'm currently learning Nuxt.js.
+*   🧠  I'm currently learning Nuxt.js
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Skills
