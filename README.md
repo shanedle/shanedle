@@ -4,10 +4,9 @@ Hey, I'm Shane! ![](https://user-images.githubusercontent.com/18350557/176309783
 Front-end Developer
 -------------------
 
-*   🌍  I'm based in a small town in Norway
 *   🖥️  Check out my portfolio [here](http://portfolio-v2-shanedle.vercel.app/)
 *   🚀  I'm currently working on [my projects](http://github.com/shanedle?tab=repositories)
-*   🧠  I'm currently learning C#, .NET, Dart and Flutter
+*   🧠  I'm currently learning C# and .NET.
 *   🤝  I'm open to collaborating on interesting projects
 
 ### Languages and Tools
