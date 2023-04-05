@@ -1,13 +1,7 @@
-Hey, I'm Shane! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=============================================================================================================================
+![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-Front-end Developer
--------------------
-
-*   🖥️  Check out my portfolio [here](http://portfolio-v2-shanedle.vercel.app/)
-*   🚀  I'm currently working on [my projects](http://github.com/shanedle?tab=repositories)
-*   🧠  I'm currently learning C#/.NET and Kotlin
-*   🤝  I'm open to collaborating on interesting projects
+### About me
+Hey there! I'm Shane, a front-end developer based in Norway. I have a passion for creating beautiful and functional websites and web applications that solve real-world problems. When I'm not coding, you can find me at the gym, playing video games, or reading books.
 
 ### Skills
 <p align="left">
@@ -40,3 +34,12 @@ Front-end Developer
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
+
+### Contact me
+* [Portfolio](http://portfolio-v2-shanedle.vercel.app/)
+* [LinkedIn](https://www.linkedin.com/in/shane-anh-dagatan-le/)
+
+### Status
+* 🚀 Currently working on [my projects](http://github.com/shanedle?tab=repositories)
+* 🧠 Currently learning C#/.NET and Kotlin
+* 🤝 Open to collaborating on interesting projects
