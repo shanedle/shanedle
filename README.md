@@ -1,32 +1,31 @@
-# Hello, World! 🌐
-## I'm Shane Le – Crafting Code and Crushing Workouts 🖥️💪
+# Shane Le
+## Front-End Developer | Tech Enthusiast
 
-I'm all about blending the precision of coding with the discipline of a good gym session. For me, every problem solved in code is like nailing a new personal best on the bench.
+Hello! I'm Shane, a front-end developer passionate about creating user-friendly web experiences.
 
-### About My Day-to-Day 📅
+### What I Do
 
-👨‍💻 **Front-End Developer:**
-I treat my projects like my workouts: consistent, focused, and always pushing for better performance. React, TypeScript, and NodeJS are my go-to tools, and I'm all about creating experiences that users love.
+- 💻 Crafting responsive and intuitive user interfaces
+- 🛠️ Working primarily with React, TypeScript, and Node.js
+- 🌱 Currently expanding my skills in C#/.NET and Java
 
-🕹️ **Gamer & Gym Enthusiast:**
-Away from the keyboard, I'm either racking up scores in the latest game or racking weights at the gym. Balance is key, and I apply that to both my leisure activities and my work.
+### Projects
 
-🌟 **Keep It Simple:**
-I like my code clean and my workouts efficient. It's about doing the basics well and building on a solid foundation.
+Check out my [portfolio](http://portfolio-v2-shanedle.vercel.app/) for a showcase of my recent work.
 
-### Let's Connect 🤝
+### Interests
 
-Whether you're looking to collaborate on a project or just want to share some tips on either coding or fitness, I'm here for it:
+When I'm not coding, you'll find me:
+- 🎮 Exploring the latest in gaming
+- 🏋️‍♂️ Maintaining a healthy work-life balance through fitness
 
-* 🚀 Take a peek at my [Portfolio](http://portfolio-v2-shanedle.vercel.app/) to see my latest web creations.
-* 📱 Hit me up on [LinkedIn](https://www.linkedin.com/in/shane-anh-dagatan-le/) for a virtual coffee chat.
+### Let's Connect
 
-### Current Focus 🎯
+I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out:
 
-* 🚀 I'm diligently working on enhancing [my projects](http://github.com/shanedle?tab=repositories).
-* 🧠 Expanding my skill set with C#/.NET.
-* 🤝 Open to joining forces on meaningful and impactful projects.
+- 📎 [LinkedIn](https://www.linkedin.com/in/shane-anh-dagatan-le/)
+- 📂 [GitHub Repositories](http://github.com/shanedle?tab=repositories)
 
 ---
 
-Let's build something great together. Here's to coding cleaner, lifting heavier, and living better! 🖥️🏋️‍♂️
+Always learning, always growing. Let's build something great together!
