@@ -1,31 +1,24 @@
-# Shane Le
-## Front-End Developer | Tech Enthusiast
+# Shane Le  
+**Full Stack Developer**
 
-Hello! I'm Shane, a front-end developer passionate about creating user-friendly web experiences.
+Developing user-centric web applications with clean architecture, intuitive interfaces, and polished aesthetics.
 
-### What I Do
+### Technical Focus  
+- **Frontend:** React/Next.js, Vue.js/Nuxt.js, JavaScript/TypeScript  
+- **Backend:** Node.js, C#/.NET, Java
+- **Learning:** Improving UI/UX implementation, exploring system design patterns
 
-- 💻 Crafting responsive and intuitive user interfaces
-- 🛠️ Working primarily with React, TypeScript, and Node.js
-- 🌱 Currently expanding my skills in C#/.NET and Java
+### Featured Work  
+See selected projects on my [portfolio](https://www.shanele.me/)  
+Full codebase available in [GitHub repositories](http://github.com/shanedle?tab=repositories)
 
-### Projects
+### Beyond Coding  
+- Weightlifting and functional fitness
+- Gaming enthusiast
 
-Check out my [portfolio](http://portfolio-v2-shanedle.vercel.app/) for a showcase of my recent work.
-
-### Interests
-
-When I'm not coding, you'll find me:
-- 🎮 Exploring the latest in gaming
-- 🏋️‍♂️ Maintaining a healthy work-life balance through fitness
-
-### Let's Connect
-
-I'm always open to collaborating on interesting projects or discussing tech. Feel free to reach out:
-
-- 📎 [LinkedIn](https://www.linkedin.com/in/shane-anh-dagatan-le/)
-- 📂 [GitHub Repositories](http://github.com/shanedle?tab=repositories)
+### Professional Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin)](https://www.linkedin.com/in/shane-anh-dagatan-le/)
 
 ---
 
-Always learning, always growing. Let's build something great together!
+Focused on continuous improvement through practical application. Open to meaningful collaborations.
